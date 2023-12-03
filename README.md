@@ -28,6 +28,13 @@
 - [x] Validar campo email
 - [x] Salvar os dados num JSON local
 
+## Implementação com NodeJS e Express
+<h4 align="center"> 
+	⌛️ Em breve ⌛️
+</h4>
+
+<br>
+
 ## ✅ Demonstração da aplicação
 
 ### Dados incorretos
