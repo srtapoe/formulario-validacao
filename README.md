@@ -26,14 +26,10 @@
 - [x] Validar o número de telefone inserido com o padrão (99) 99999-9999
 - [x] Formatar a entrada do telefone
 - [x] Validar campo email
-- [x] Salvar os dados num JSON local
+- [x] Salvar os dados no navegador
 
 ## Implementação com NodeJS e Express
-<h4 align="center"> 
-	⌛️ Em breve ⌛️
-</h4>
-
-<br>
+ - [Versão com NodeJs e Express](https://github.com/srtapoe/formulario-com-nodeexpress)
 
 ## ✅ Demonstração da aplicação
 
