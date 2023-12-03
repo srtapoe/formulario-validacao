@@ -78,3 +78,17 @@ button:hover {
         max-width: 100%; 
     }
 }
+
+.error-message {
+    color: red;
+    font-size: 0.8em;
+    margin-top: 5px;
+}
+
+.valid {
+    border: 1px solid #00FF00;
+}
+
+.invalid {
+    border: 1px solid red;
+}
